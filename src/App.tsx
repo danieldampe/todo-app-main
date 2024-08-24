@@ -14,6 +14,10 @@ const App: React.FC = () => {
       <div className='p-4 mt-8'>
         <p className='text-center text-sm text-gray-500'>Drag and drop to reorder list</p>
       </div>
+      <div className='attribution fixed bottom-0 left-0 w-full'>
+        Challenge by <a href='https://www.frontendmentor.io?ref=challenge' target='_blank' rel='noreferrer'>Frontend Mentor</a>.
+        Coded by <a href='https://github.com/danieldampe'>danieldampe</a>.
+      </div>
     </main>
   )
 }
